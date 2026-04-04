@@ -105,6 +105,59 @@
 
 ---
 
+## Infrastructure & Training
+
+### 10. Wikipedia: "Ludus Magnus" (Great Gladiatorial Training School)
+- **URL:** https://en.wikipedia.org/wiki/Ludus_Magnus
+- **Key data:**
+  - Largest of 4 gladiatorial schools in Rome, built by Domitian (81-96 AD)
+  - Located directly east of Colosseum, connected by underground tunnel
+  - Central ellipsoidal arena (63m × 42m) with 3,000-seat cavea for spectators watching training
+  - Gladiators lived, ate, and practiced on-site — professional full-time athletes
+  - 4 schools total: Ludus Magnus, Dacian, Gallic, Matutinus (Morning School)
+  - Each gladiator assigned a specialty doctore + general lanista oversight
+  - **Training was public entertainment** — Romans watched gladiators practice as a preview
+- **For our essay:** The gladiator schools were proto-sports academies. Full-time residence, specialized coaching, public training sessions — this maps directly to modern sports training facilities.
+
+### 11. Wikipedia: "Colosseum"
+- **URL:** https://en.wikipedia.org/wiki/Colosseum
+- **Key data:**
+  - **Capacity: 50,000-80,000 (average ~65,000)** — largest amphitheatre ever built
+  - Construction: 70-80 AD by Vespasian and Titus (Flavian dynasty)
+  - **Funded from spoils of the Jewish Temple** after First Jewish-Roman War (70 AD)
+  - Materials: travertine limestone, tuff, brick-faced Roman concrete
+  - Used for: gladiatorial contests, animal hunts, executions, battle re-enactments, mythological dramas, mock sea battles
+  - Inaugural games (80 AD): 9,000 animals killed (Dio Cassius)
+  - Gladiatorial fights banned: 399 AD and again 404 AD; last mentioned ~435 AD
+  - Animal hunts continued until at least 523 AD
+- **For our essay:** The Colosseum is the ultimate comparison point — a purpose-built entertainment megastructure that served one city. Its construction funding (war spoils) vs. modern stadium financing (public bonds + private equity) tells the story of how sports funding evolved.
+
+### 12. Wikipedia: "Venatio" (animal hunts)
+- **URL:** https://en.wikipedia.org/wiki/Venatio
+- **Key data:**
+  - First introduced by Marcus Fulvius Nobilior (to celebrate Greek campaign)
+  - Held in morning before afternoon gladiatorial main events — a "warm-up act"
+  - Animals: lions, elephants, bears, tigers, deer, zebras, ostriches, giraffes, crocodiles, hippos, etc.
+  - **Caesar used 400 lions** imported from North Africa and Syria
+  - **3,500 elephants killed during Augustus' reign** in circus games
+  - 9,000 animals killed during Colosseum inaugural games (80 AD)
+  - Importing exotic animals from empire's edges = demonstration of imperial power
+  - Some animals were trained to perform tricks rather than fight
+- **For our essay:** The logistical scale of venationes is staggering — transporting exotic animals across the empire for spectacle. This is proto-entertainment logistics, analogous to modern sports broadcasting infrastructure.
+
+### 13. "Res Gestae Divi Augusti" — Augustus' own account
+- **URL:** https://en.wikipedia.org/wiki/Res_Gestae_Divi_Augusti
+- **Key data:**
+  - First-person account by Augustus of his life and accomplishments
+  - **Augustus spent 600 million denarii (24 million gold aurei) from personal funds** on public projects during his reign
+  - This included gladiatorial spectacles, public works, and land/grain donations
+  - He specifically lists "gladiatorial spectacles" among his public benefactions (paragraphs 15-24)
+  - The 600M denarii figure is described as "clearly more than anyone else in the empire could afford"
+  - Also funded the aerarium militare (military treasury) with 170 million sesterces of personal money
+- **For our essay:** THIS IS THE SMOKING GUN. Augustus himself documented his spending on spectacle as a key achievement. The fact that a head of state's autobiography prominently features entertainment spending tells us everything about spectacle's role in governance. No modern president lists their country's sports spending in their memoirs.
+
+---
+
 ## Economic Context Sources
 
 ### 10. Wikipedia: "Roman economy"
