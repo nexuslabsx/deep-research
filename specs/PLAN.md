@@ -1,24 +1,28 @@
 # Deep Research — Plan
 
-Long-form research essays by Monte + Ash. Brainstorm on Telegram, research and draft incrementally, publish to Substack, archive in repo.
+Long-form research essays by Monte + Ash. Brainstorm on Telegram, research and draft incrementally, publish and open-source.
+
+**Repo:** [github.com/nexuslabsx/deep-research](https://github.com/nexuslabsx/deep-research) (public)
 
 ---
 
 ## Phases
 
 ### Phase 1: Repo + Skill Setup ✅ DONE
-Set up the deep-research repo structure and the `deep-research` ash-core skill that handles essay lifecycle (create, draft, research, chart, show, publish).
+Set up the deep-research repo and the `deep-research` ash-core skill (7 intents: new, research, draft, chart, show, status, publish).
 
 ### Phase 2: First Essay — Sports & Civilization ✅ DONE
-Research, draft, and publish the first essay. 6 steps:
-- [x] Step 1: Academic prior art survey — 5 bridging sources, key books located on Archive.org
-- [x] Step 2: Modern era data — 9 sources, venues, broadcasting, esports, betting, Olympic growth
-- [x] Step 3: Roman era data — 16 sources, Res Gestae, Colosseum, gladiator schools, economic context
-- [x] Step 4: First draft + revision — 2 rounds of feedback, ~2,200 words
-- [x] Step 5: Charts — 4 visualizations (branching, comparison, Olympic growth, league revenue)
-- [x] Step 6: Finalized — FINAL.md ready, repo open-sourced, sources linked
+- 80+ structured data points in facts.csv
+- 30 annotated sources across 3 files (roman, modern, bridge)
+- 4 polished charts (branching, donut comparison, Olympic growth, league revenue)
+- ~2,200 word essay, 2 revision rounds
+- Repo open-sourced, posted on X
+- Time: ~4 hours brainstorm-to-publish
 
-### Phase 3: Substack Integration (if needed)
+### Phase 3: Next Essay — TBD
+No topic selected yet. When ready, use the `deep-research` skill to kick off.
+
+### Phase 4: Substack Integration (if needed)
 API-based publishing to Substack. Only worth building after 2-3 manual publishes.
 
 ---
@@ -26,7 +30,18 @@ API-based publishing to Substack. Only worth building after 2-3 manual publishes
 ## Decisions
 
 - **~2,000 words** target per essay (expandable per topic)
-- **Light theme charts** — clean, simple, white background
-- **Manual Substack** for now — copy-paste from FINAL.md
-- **Ash Garden archived** — 12 posts preserved as-is on GitHub
-- **Essay structure**: claim → present-day data → Roman-era data → parallel comparison → findings
+- **Light theme charts** — Inter font, 150 DPI, clean style
+- **Manual Substack** for now
+- **facts.csv** as the reusable data asset per essay
+- **Sources split by era** when they get long (roman/modern/bridge)
+- **Open source by default** — the data is the most valuable artifact
+
+## Process (proven on essay #1)
+
+1. Brainstorm thesis on Telegram
+2. Research: academic prior art first, then era-specific deep dives
+3. Structure findings into facts.csv (era, metric, value, unit, date, confidence, source_id, note)
+4. Generate charts from the data
+5. Draft with takeaway-first paragraphs, no em-dashes, year context for historical figures
+6. Monte reviews and steers (tone, structure, depth)
+7. Finalize: linked sources, FINAL.md, open-source repo
