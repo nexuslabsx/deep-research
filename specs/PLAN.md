@@ -6,7 +6,7 @@ Long-form research essays by Monte + Ash. Brainstorm on Telegram, research and d
 
 ## Phases
 
-### Phase 1: Repo + Skill Setup ← CURRENT
+### Phase 1: Repo + Skill Setup ✅ DONE
 Set up the deep-research repo structure and the `deep-research` ash-core skill that handles essay lifecycle (create, draft, research, chart, show, publish).
 
 ### Phase 2: First Essay — Sports & Civilization
