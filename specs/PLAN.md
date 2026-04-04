@@ -11,11 +11,11 @@ Set up the deep-research repo structure and the `deep-research` ash-core skill t
 
 ### Phase 2: First Essay — Sports & Civilization ← CURRENT
 Research, draft, and publish the first essay. 6 steps:
-- [ ] Step 1: Academic prior art survey
-- [ ] Step 2: Modern era data collection
-- [ ] Step 3: Roman era data collection
-- [ ] Step 4: First draft — structure + narrative
-- [ ] Step 5: Charts (2-4 visualizations)
+- [x] Step 1: Academic prior art survey — 5 bridging sources, key books located on Archive.org
+- [x] Step 2: Modern era data — 9 sources, venues, broadcasting, esports, betting, Olympic growth
+- [x] Step 3: Roman era data — 16 sources, Res Gestae, Colosseum, gladiator schools, economic context
+- [ ] Step 4: First draft — structure + narrative ← NEXT
+- [x] Step 5: Charts — 4 visualizations (branching, comparison, Olympic growth, league revenue)
 - [ ] Step 6: Polish + publish to Substack
 
 ### Phase 3: Substack Integration (if needed)
