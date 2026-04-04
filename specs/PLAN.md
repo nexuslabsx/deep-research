@@ -9,8 +9,14 @@ Long-form research essays by Monte + Ash. Brainstorm on Telegram, research and d
 ### Phase 1: Repo + Skill Setup ✅ DONE
 Set up the deep-research repo structure and the `deep-research` ash-core skill that handles essay lifecycle (create, draft, research, chart, show, publish).
 
-### Phase 2: First Essay — Sports & Civilization
-Research, draft, and publish the first essay. This is the real test of the workflow.
+### Phase 2: First Essay — Sports & Civilization ← CURRENT
+Research, draft, and publish the first essay. 6 steps:
+- [ ] Step 1: Academic prior art survey
+- [ ] Step 2: Modern era data collection
+- [ ] Step 3: Roman era data collection
+- [ ] Step 4: First draft — structure + narrative
+- [ ] Step 5: Charts (2-4 visualizations)
+- [ ] Step 6: Polish + publish to Substack
 
 ### Phase 3: Substack Integration (if needed)
 API-based publishing to Substack. Only worth building after 2-3 manual publishes.
