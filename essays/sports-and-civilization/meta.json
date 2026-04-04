@@ -1,10 +1,15 @@
 {
   "title": "Sports & Civilization",
   "subtitle": "Can we quantify societal advancement through the evolution of sports?",
-  "status": "research",
+  "status": "final",
   "created": "2026-04-04",
-  "published": null,
+  "published": "2026-04-04",
   "substackUrl": null,
   "wordCountTarget": 2000,
-  "tags": ["history", "sports", "economics", "civilization"]
+  "tags": [
+    "history",
+    "sports",
+    "economics",
+    "civilization"
+  ]
 }
