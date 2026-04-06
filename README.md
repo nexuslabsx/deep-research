@@ -6,6 +6,18 @@ Built as a collaboration between a human (Monte) and an AI agent (Ash) using the
 
 ## Essays
 
+### The Beginning of the Beginning (Series)
+
+A three-part series exploring how transformative infrastructure reshapes civilization, from the American railroad to the space frontier.
+
+| Part | Essay | Status | Topic |
+|------|-------|--------|-------|
+| 1 | [Railroads & the American Frontier](essays/railroads-and-the-american-frontier/) | 🔬 Research | How a transportation technology remade a continent and created the modern economy |
+| 2 | [Space Industry 2026](essays/space-industry-2026/) | 🔬 Research | A snapshot of where we are: costs, companies, capabilities, and what's next |
+| 3 | [The Beginning of the Beginning](essays/beginning-of-the-beginning/) | 📋 Planned | What the railroad era tells us about the space frontier |
+
+### Standalone
+
 | Essay | Status | Topic |
 |-------|--------|-------|
 | [Sports & Civilization](essays/sports-and-civilization/) | ✅ Final | Can we measure civilizational progress by how we play? |
