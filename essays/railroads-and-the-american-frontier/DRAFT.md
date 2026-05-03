@@ -55,10 +55,14 @@ The legislative response took fifteen years to arrive. The Interstate Commerce A
 ![Railroad capital vs federal debt, 1890](charts/railroad-capital-vs-federal-debt-1890.png)
 
 ### 4. Who Built It
-- Chinese labor on the Central Pacific: ~90% of workforce, 10,000-15,000 workers
-- Irish immigrants on the Union Pacific
-- Working conditions, pay disparities, deaths (especially Sierra Nevada tunneling)
-- The labor exploitation that powered the "golden age" — an honest accounting
+
+The Central Pacific's trackbed through the Sierra Nevada was built almost entirely by Chinese workers. Estimates of the workforce vary between roughly 10,000 and 15,000 at construction peaks; perhaps 20,000 in total cycled through between 1865 and 1869. They were at one point about 90 percent of the Central Pacific's workforce. The Union Pacific, building west from Omaha, drew its labor mostly from Irish immigrants and Civil War veterans.
+
+The work was brutal in a way that requires specifics. Fifteen tunnels had to be cut through Sierra granite. The worst of them, Summit Tunnel, took a year and a half of round-the-clock shifts. Crews were lowered down cliff faces in woven baskets to drill blasting holes. Avalanches buried entire camps. The death rate during the Sierra Nevada phase exceeded ten percent of the workforce. Estimates of total Chinese deaths during construction begin at one thousand and are probably higher, since the Central Pacific kept careless records of Chinese casualties.
+
+The pay was structurally unequal. Chinese workers earned $30 to $35 a month, less than their white counterparts; they were also expected to provide their own food and lodging, while white workers' meals and housing were covered. In June 1867, about 3,000 Chinese workers in the Sierra Nevada struck for $40 a month and a ten-hour day. The Central Pacific's response was direct: it cut off their food supply. The strike collapsed inside a week.
+
+It is worth keeping these two sections next to each other. The same Leland Stanford whose stock made him one of the wealthiest men in America also chose, while construction was happening, to starve his striking Chinese workers back to work. Crédit Mobilier's $44 million skim was happening on the Union Pacific's side of the line at roughly the same time. The fortunes that this essay's third section catalogued were not built on the moving of freight. They were built, in significant part, on the labor that this section is about.
 
 ### 5. Second-Order Effects Nobody Predicted
 - **Time zones (1883):** Railroads standardized time before the federal government did — previously every city kept its own local time
