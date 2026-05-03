@@ -4,7 +4,7 @@
 
 **Series:** Part 1 of "The Beginning of the Beginning" (3-part)
 **Word target:** ~3,250 of prose (~3,000 series target + lead/thesis)
-**Last commit:** *(updated below)*
+**Last commit:** `2d526c3` — chart: railroad capital vs federal debt, 1890
 
 ---
 
