@@ -122,20 +122,20 @@ Update these lines when starting new essays or changing status.
 
 **Chart naming:** Use descriptive kebab-case names like `global-sports-revenue-timeline.png` or `gladiator-vs-modern-economics.png`.
 
-### 5. `show` — Send the draft to Monte
+### 5. `show` — Show Monte the draft
 
 **Triggers:** "show me the draft", "where are we", "send me what you have"
 
 **Steps:**
 1. Read the current `DRAFT.md`
-2. If under 3,000 characters, send the full text to Telegram
-3. If over 3,000 characters, send a structured summary:
+2. If under 3,000 characters, post the full text in chat
+3. If over 3,000 characters, post a structured summary in chat:
    - Title + thesis
    - Section list with word counts per section
    - Total word count vs. target
    - Last 1-2 paragraphs written (the "latest work")
-   - GitHub link to the full draft
-4. If there are charts, send them as images
+   - Path to the full draft (e.g. `essays/<slug>/DRAFT.md`)
+4. If there are charts, list them by path so Monte can open them
 
 ### 6. `status` — Report essay progress
 
@@ -165,10 +165,10 @@ Update these lines when starting new essays or changing status.
    - Clean markdown (Substack supports basic markdown)
    - Chart images will need manual upload — list them with filenames
    - Include a suggested title and subtitle
-6. Send the Substack-ready text to Monte on Telegram
+6. Post the Substack-ready text in chat
 7. Commit: `publish: <title>`
 8. Push
-9. Tell Monte: "Copy the text above into Substack. Upload these chart images: [list]. When published, send me the URL and I'll update meta.json."
+9. Tell Monte in chat: "Copy the text above into Substack. Upload these chart images: [list]. When published, send me the URL and I'll update meta.json."
 
 ## Commit Conventions
 
@@ -180,7 +180,7 @@ All commits in the deep-research repo use these prefixes:
 - `publish:` — final publication prep
 - `docs:` — repo docs, specs, templates
 
-Always push after committing. Monte reviews via git history and Telegram.
+Always push after committing. Monte reviews via git history and chat updates.
 
 ## Git Workflow
 
