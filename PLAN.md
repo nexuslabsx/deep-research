@@ -21,17 +21,14 @@ This file is the strategic roadmap (Phases + Backlog). Day-to-day state lives el
 
 ---
 
-## Phases
+## Active
 
-### Phase 1: Railroads & the American Frontier
-- This is the clear next essay in the queue: Part 1 of the series and the historical foundation for the space comparison
-- Turn the outline into a full draft with verified numbers on railroad mileage, land grants, capital formation, labor, and Fogel's social-savings argument
-- Build the first chart set around infrastructure buildout, the government's bet, and the major second-order effects
+- **Phase 1 (in progress):** [Railroads & the American Frontier](essays/railroads-and-the-american-frontier/STATUS.md) — research/charts ongoing
 
-### Phase 2: Space Industry 2026
-- Finish the current-state landscape essay after the railroad piece is in shape
-- Focus on the cost curve, SpaceX dominance, lunar return, the broader ecosystem, and the governance gap
-- Make it the modern counterpart that Part 3 will eventually synthesize
+## Queued
+
+- **Phase 2:** [Space Industry 2026](essays/space-industry-2026/) — modern counterpart to Part 1
+- **Phase 3:** [The Beginning of the Beginning](essays/beginning-of-the-beginning/) — bridge essay synthesizing Parts 1 + 2
 
 ---
 

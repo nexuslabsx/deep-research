@@ -19,15 +19,9 @@ This skill lives **inside** the `deep-research` repo at `.claude/skills/deep-res
 
 ## Active Essay
 
-Check `meta.json` files under `essays/` to find the essay with `"status": "research"` or `"status": "draft"`. If multiple are active, ask Monte which one. If none, suggest creating a new one.
+To find the current essay, read `PLAN.md` § Active. Each entry points to that essay's `STATUS.md`. If Monte names a specific essay, use that one instead. If multiple essays are in progress and Monte hasn't named one, ask.
 
-For convenience, the current active essays are:
-- **Series:** "The Beginning of the Beginning" (3-part)
-  - Part 1: `essays/railroads-and-the-american-frontier/` (research)
-  - Part 2: `essays/space-industry-2026/` (research)
-  - Part 3: `essays/beginning-of-the-beginning/` (planned)
-
-Update these lines when starting new essays or changing status.
+Per-essay state lives in `essays/<slug>/STATUS.md`. Read it on session resume.
 
 ## Intents
 
@@ -139,18 +133,18 @@ Update these lines when starting new essays or changing status.
 
 ### 6. `status` — Report essay progress
 
-**Triggers:** "essay status", "how's the essay going", "progress update"
+**Triggers:** "essay status", "how's the essay going", "progress update", "where are we"
 
 **Steps:**
-1. Read `DRAFT.md` and `meta.json`
-2. Report:
-   - **Title** and status
-   - **Word count:** current / target
-   - **Sections:** list with completion indicator
-   - **Sources:** count from `data/sources.md`
-   - **Charts:** count from `charts/`
-   - **Last commit:** message + relative time
-   - **Open questions:** any flagged in the draft
+1. Read `PLAN.md` § Active to find the current essay (if Monte names a specific one, use that)
+2. Read that essay's `STATUS.md` — it is the source of truth
+3. Report in this order:
+   - **Vision** — one line from `PLAN.md` § Vision
+   - **Current essay** — title + series position from `STATUS.md` header
+   - **Phases** — the Phase table verbatim
+   - **Current focus** + **last commit** — both from `STATUS.md` header
+4. If asked for detail on a specific phase, return that phase's checklist section
+5. If `STATUS.md` is missing, fall back to deriving from `DRAFT.md` + `meta.json` + filesystem (and flag the missing STATUS.md)
 
 ### 7. `publish` — Prepare for Substack
 
