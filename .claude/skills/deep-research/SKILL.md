@@ -116,6 +116,9 @@ Per-essay state lives in `essays/<slug>/STATUS.md`. Read it on session resume.
 
 **Chart naming:** Use descriptive kebab-case names like `global-sports-revenue-timeline.png` or `gladiator-vs-modern-economics.png`.
 
+**When posting chart references in chat:** Always include the GitHub blob URL alongside, since chat clients can't resolve relative paths. Format:
+`https://github.com/nexuslabsx/deep-research/blob/main/essays/<slug>/charts/<filename>.png`
+
 ### 5. `show` — Show Monte the draft
 
 **Triggers:** "show me the draft", "where are we", "send me what you have"

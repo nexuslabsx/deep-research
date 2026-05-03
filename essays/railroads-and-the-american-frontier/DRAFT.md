@@ -15,11 +15,12 @@ The railroad wasn't primarily a transportation technology. It was an *optionalit
 ## Section Outline
 
 ### 1. The Technical Unlock
-- Steam engine lineage: Newcomen (1712) → Watt (1760s) → Trevithick's locomotive (1804) → Stephenson's Rocket (1829)
-- First American railroads: Baltimore & Ohio (1827), Charleston & Hamburg (1830)
-- Key innovations: standard gauge, steel rails replacing iron, air brakes (Westinghouse, 1869), refrigerated cars
-- Speed of buildout: 9,000 miles (1850) → 30,000 (1860) → 163,000 (1890) → 254,000 peak (1916)
-- How long the underlying technology existed before the railroad explosion (decades of steam before practical rail)
+
+The railroad looks like a 19th-century invention. It wasn't. Thomas Newcomen's atmospheric engine was pumping water out of Cornish tin mines in 1712. James Watt's separate-condenser improvement, the one that made steam genuinely efficient, arrived in the 1760s. Richard Trevithick ran the first locomotive on rails in 1804. The Liverpool and Manchester opened with George Stephenson's *Rocket* in 1829. By the time the Baltimore and Ohio was chartered in 1827 and the Charleston and Hamburg started the first scheduled American steam passenger service in 1830, the underlying technology was well over a century old.
+
+Why did the explosion happen then, and not earlier or later? Three things converged. First, iron production had matured enough to make rails affordable at scale. Second, the engines themselves had been miniaturized and powered up to the point where they could pull useful loads at useful speeds. Third, and this is the part the technology histories usually skip, the political imagination caught up. State legislatures started chartering railroad companies the way they had chartered turnpikes and canals, with land grants and stock subscriptions. The Erie Canal had opened in 1825 and reshaped commerce on the eastern seaboard. The B&O charter followed two years later.
+
+What came next wasn't a single great invention but a series of standardization choices that compounded. Standard gauge of 4 feet 8.5 inches was effectively mandated for the transcontinental by the Pacific Railroad Act of 1863; adoption across the rest of the country took until 1886. Steel rails replaced iron through the 1870s and 1880s as the Bessemer process scaled, extending track life from a few years to a few decades. George Westinghouse patented the air brake in 1869; it took until the Railroad Safety Appliance Act of 1893 to make it mandatory. Each unspectacular alone. Together they turned the curve in the chart from a novelty into a continental network.
 
 ![US Railroad Mileage, 1830-1916](charts/us-railroad-mileage-1830-1916.png)
 
