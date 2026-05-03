@@ -15,11 +15,11 @@
 | 1 | Brainstorm | ✅ done | thesis ("optionality engine") + 7-section outline scaffolded |
 | 2 | Research | 🔬 ~85% | 18 of ~22 source clusters cited; 4 follow-ups open |
 | 3 | Charts | 📊 ~60% | 3 of 5 done (mileage, land grants, railroad capital) |
-| 4 | Draft | ✍️ ~17% | lead + thesis + § 1 in prose (1 of 7 sections) |
+| 4 | Draft | ✍️ ~32% | lead + thesis + §§ 1-2 in prose (2 of 7 sections) |
 | 5 | Polish | — | not started |
 | 6 | Publish | — | not started |
 
-**Current focus:** Drafting Section 2 (The Government's Bet); chart for § 6 (Fogel) and § 5 (second-order timeline) still ahead.
+**Current focus:** Drafting Section 3 (The Money); chart for § 6 (Fogel) and § 5 (second-order timeline) still ahead.
 
 ---
 
@@ -73,14 +73,14 @@ Sections (target words / current prose):
 - [x] Lead paragraph (~100 / done)
 - [x] Thesis statement (~150 / done)
 - [x] § 1 The Technical Unlock (~350 / ~370)
-- [ ] § 2 The Government's Bet (~500 / 0)
+- [x] § 2 The Government's Bet (~500 / ~415)
 - [ ] § 3 The Money (~550 / 0)
 - [ ] § 4 Who Built It (~350 / 0)
 - [ ] § 5 Second-Order Effects (~600 / 0)
 - [ ] § 6 The Contrarian View / Fogel (~400 / 0)
 - [ ] § 7 How Big, Really (~250 / 0)
 
-**Current prose:** ~620 words (lead + thesis + § 1).
+**Current prose:** ~1,035 words (lead + thesis + §§ 1-2).
 
 Outline corrections still pending in DRAFT.md:
 

@@ -25,11 +25,16 @@ What came next wasn't a single great invention but a series of standardization c
 ![US Railroad Mileage, 1830-1916](charts/us-railroad-mileage-1830-1916.png)
 
 ### 2. The Government's Bet
-- Pacific Railroad Acts (1862, 1864): land grants + government bonds per mile (1862: $16K/mile level, $32K foothills, $48K mountains; 1864 doubled all rates)
-- Scale: ~131 million acres in federal land grants to ~80 railroad companies, 1850-1871 (~7% of continental US); ~180M including state grants
-- Homestead Act (1862): 160 free acres to anyone who'd settle and farm; ~1.6 million claims, ~270 million acres distributed by 1934
-- The coordinated strategy: simultaneously creating supply (railroads) and demand (settlers)
-- Combined railroad + Homestead grants = ~401M acres redistributed in 70 years, roughly 21% of the continental US
+
+Two pieces of legislation passed Congress in 1862. The Homestead Act, signed by Lincoln on May 20, offered 160 acres of public land to anyone who would farm it for five years. The Pacific Railway Act, signed six weeks later on July 1, gave the Union Pacific and Central Pacific railroads alternating sections of land along their tracks plus 30-year, 6% federal bonds at $16,000 to $48,000 per mile depending on terrain. The 1864 follow-up doubled both the land grants and the bond rates.
+
+The genius of the structure was that it didn't require the government to spend much cash. The federal government had something it considered abundant — public land, much of it taken from Indigenous nations through treaty and force — and something it didn't have, which was money to build a transcontinental railroad in the middle of a civil war. Land became the currency.
+
+The mechanism was clever in a second way. Railroads were given alternate sections in a "checkerboard" pattern; the government kept the sections in between. Land near a railroad was worth a multiple of what land in the middle of the prairie was worth, so the act of building the railroad turned the government's retained sections into something settlers would pay for. A railroad got land it could sell to finance construction. Settlers bought adjacent Homestead Act land at a discount. The government partly recouped its giveaway through sales of the sections it kept.
+
+The combined scale of the two programs is the thing that's hard to grasp. By 1934, the Homestead Act had distributed about 270 million acres across roughly 1.6 million claims. By 1871, when the federal land-grant program ended, railroads had received about 131 million acres in federal grants, or 180 million counting state grants on top. Together that is roughly 401 million acres redistributed in seventy years, about 21 percent of the continental United States.
+
+For comparison, the Louisiana Purchase added 530 million acres. The Alaska Purchase added 365. The federal government, in a coordinated supply-and-demand bet conducted under the cover of a civil war, redistributed an area larger than Alaska to private hands as deliberate policy. It was the largest peacetime program of land redistribution in American history, and it was structured as infrastructure subsidy.
 
 ![Federal land movements in the 19th century](charts/federal-land-comparison-19th-century.png)
 
