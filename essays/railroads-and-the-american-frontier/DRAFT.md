@@ -39,13 +39,18 @@ For comparison, the Louisiana Purchase added 530 million acres. The Alaska Purch
 ![Federal land movements in the 19th century](charts/federal-land-comparison-19th-century.png)
 
 ### 3. The Money
-- Railroad stocks + bonds: >50% of NYSE capitalization and >80% of trading volume from the Civil War through ~1900; transportation was the largest US sector until Standard Oil overtook it in 1884
-- Total railroad capitalization grew $4.6B (1876) → $10.6B (1890) — ~9x the federal national debt of $1.2B
-- The robber barons: Vanderbilt, Gould, Stanford, Huntington, Harriman — wealth concentration
-- Boom-bust cycles: Panic of 1873 (Jay Cooke collapse financing Northern Pacific), Panic of 1893
-- Crédit Mobilier scandal — construction company self-dealing, political corruption (UP billed $94M for $50M of work; Garfield, Blaine, Colfax implicated)
-- Estimated ~40% of 1890 railroad capitalization was "watered" — securities issued in excess of physical investment
-- The birth of antitrust: Sherman Act (1890), ICC (1887) — regulation as response to monopoly
+
+If the railroad was an optionality engine on the land, it was a cash machine on Wall Street. Railroad stocks and bonds made up more than half of the New York Stock Exchange's capitalization and more than 80 percent of its trading volume from the Civil War through about 1900. Until Standard Oil overtook it in 1884, the largest corporation in the United States was always a railroad. The first widely-traded American stock was the Vermont Central Railroad, in 1845.
+
+The numbers were enormous in absolute terms too. By 1890, railroad stocks plus bonds outstanding had grown to about $10.6 billion, up from $4.6 billion in 1876. That single sector was capitalized at roughly nine times the federal national debt at the time. To raise that much capital, railroads pulled together every financial instrument the era had — domestic equity, corporate bonds, municipal bonds, foreign capital, and direct federal subsidy — and invented a few new ones in the process.
+
+About forty percent of that 1890 figure, by one careful estimate, was "watered." Watered stock was the practice of issuing shares not against actual track or rolling stock but against expected earnings, against corporate goodwill, or against nothing at all. A railroad whose actual physical infrastructure cost $50 million might be capitalized at $90 million, with the difference handed out to insiders. The water is what made the wealth concentration possible. Vanderbilt, Gould, Stanford, Huntington, Harriman — those names were not built on what the railroad earned moving freight. They were built on the stock that could be issued and sold against the railroad's existence.
+
+The cleanest case study is Crédit Mobilier. The Union Pacific's insiders set up a separate construction company to build the railroad and then made sure it billed the railroad for $94 million worth of work that actually cost $50 million. The $44 million difference flowed to the insiders. Some of the discounted shares of the construction company were then handed to members of Congress to buy political protection. The scheme was exposed by the New York Sun in September 1872; House censure followed in February 1873; the implicated names included a future president (James Garfield), the Speaker of the House (James Blaine), and the sitting Vice President (Schuyler Colfax). Nothing of consequence happened to most of them.
+
+The boom was not infinite. On September 18, 1873, Jay Cooke & Company failed because it couldn't sell the Northern Pacific bonds it had committed to underwrite. Cooke's collapse triggered the Panic of 1873, which kicked off what later economists would call the Long Depression. The proximate cause was a single railroad's bond issuance failing. The deeper cause was that too much capital had been bet on too many railroads built too quickly.
+
+The legislative response took fifteen years to arrive. The Interstate Commerce Act of 1887 created the first federal regulatory agency, the Interstate Commerce Commission, specifically to police railroad rates. The Sherman Antitrust Act of 1890 outlawed combinations in restraint of trade. Both laws were written, in their bones, against the railroads. The infrastructure that built the modern American economy also built the modern American regulatory state.
 
 ![Railroad capital vs federal debt, 1890](charts/railroad-capital-vs-federal-debt-1890.png)
 
