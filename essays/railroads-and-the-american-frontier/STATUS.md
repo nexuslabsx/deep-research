@@ -4,7 +4,7 @@
 
 **Series:** Part 1 of "The Beginning of the Beginning" (3-part)
 **Word target:** ~3,250 of prose (~3,000 series target + lead/thesis)
-**Last commit:** `ade210a` — docs: research mission contract + per-essay STATUS.md pattern
+**Last commit:** *(updated below)*
 
 ---
 
@@ -14,12 +14,12 @@
 |---|---|---|---|
 | 1 | Brainstorm | ✅ done | thesis ("optionality engine") + 7-section outline scaffolded |
 | 2 | Research | 🔬 ~85% | 18 of ~22 source clusters cited; 4 follow-ups open |
-| 3 | Charts | 📊 ~40% | 2 of 5 charts done (mileage, land grants) |
+| 3 | Charts | 📊 ~60% | 3 of 5 done (mileage, land grants, railroad capital) |
 | 4 | Draft | ✍️ ~5% | lead + thesis only; 0 of 7 sections in prose |
 | 5 | Polish | — | not started |
 | 6 | Publish | — | not started |
 
-**Current focus:** Charts (next: NYSE share for § 3) → then drafting Section 1.
+**Current focus:** Drafting Section 1 (Technical Unlock); chart for § 6 (Fogel) and § 5 (second-order timeline) still ahead.
 
 ---
 
@@ -59,7 +59,7 @@ Open follow-ups:
 
 - [x] `us-railroad-mileage-1830-1916.png` — § 1 buildout curve
 - [x] `federal-land-comparison-19th-century.png` — § 2 land grant comparison
-- [ ] `nyse-railroad-share.png` — § 3 finance (railroads vs other sectors over time)
+- [x] `railroad-capital-vs-federal-debt-1890.png` — § 3 finance (capitalization growth + scale vs federal debt)
 - [ ] `fogel-social-savings.png` — § 6 contrarian (Fogel 2.7% vs Donaldson-Hornbeck 3.22%, with 3-month-delay counterfactual)
 - [ ] `second-order-effects-timeline.png` — § 5 (time zones, Chicago stockyards, Sears, Standard Oil, refrigerated cars on a single timeline)
 - [ ] *(optional)* `chinese-labor-breakdown.png` — § 4 if data supports a clean visual
@@ -85,7 +85,7 @@ Sections (target words / current prose):
 Outline corrections still pending in DRAFT.md:
 
 - [x] Land grants: 175M → 131M federal / 180M total *(done in commit `86a9338`)*
-- [ ] § 3 NYSE figure: "60% of NYSE by 1900" → ">50% of capitalization, >80% of trading volume from Civil War to ~1900"
+- [x] § 3 NYSE figure: "60% of NYSE by 1900" → ">50% of capitalization, >80% of trading volume from Civil War to ~1900" *(done in this commit cluster)*
 - [ ] § 6 Fogel: "social savings ~5% of GDP?" → "2.7% agriculture / 6-7% broader; Donaldson & Hornbeck 2013 re-estimate 3.22% via land-value channel"
 
 ---

@@ -33,12 +33,15 @@ The railroad wasn't primarily a transportation technology. It was an *optionalit
 ![Federal land movements in the 19th century](charts/federal-land-comparison-19th-century.png)
 
 ### 3. The Money
-- Railroad stocks as ~60% of NYSE by 1900
+- Railroad stocks + bonds: >50% of NYSE capitalization and >80% of trading volume from the Civil War through ~1900; transportation was the largest US sector until Standard Oil overtook it in 1884
+- Total railroad capitalization grew $4.6B (1876) → $10.6B (1890) — ~9x the federal national debt of $1.2B
 - The robber barons: Vanderbilt, Gould, Stanford, Huntington, Harriman — wealth concentration
 - Boom-bust cycles: Panic of 1873 (Jay Cooke collapse financing Northern Pacific), Panic of 1893
-- Crédit Mobilier scandal — construction company self-dealing, political corruption
-- Capital invested: total investment figures, returns timelines, comparison to GDP
+- Crédit Mobilier scandal — construction company self-dealing, political corruption (UP billed $94M for $50M of work; Garfield, Blaine, Colfax implicated)
+- Estimated ~40% of 1890 railroad capitalization was "watered" — securities issued in excess of physical investment
 - The birth of antitrust: Sherman Act (1890), ICC (1887) — regulation as response to monopoly
+
+![Railroad capital vs federal debt, 1890](charts/railroad-capital-vs-federal-debt-1890.png)
 
 ### 4. Who Built It
 - Chinese labor on the Central Pacific: ~90% of workforce, 10,000-15,000 workers
