@@ -9,13 +9,13 @@ Manage the lifecycle of long-form research essays: create, research, draft, char
 
 ## Paths
 
-This skill lives **inside** the `deep-research` repo at `skills/deep-research/`. All paths below are relative to the repo root. Find it with `git rev-parse --show-toplevel` if you need an absolute path.
+This skill lives **inside** the `deep-research` repo at `.claude/skills/deep-research/`. All paths below are relative to the repo root. Find it with `git rev-parse --show-toplevel` if you need an absolute path.
 
 | Item | Path (relative to repo root) |
 |------|------|
 | **Essays** | `essays/` |
 | **Templates** | `templates/` |
-| **Chart style** | Read `references/chart-style.md` in this skill directory (`skills/deep-research/references/chart-style.md` from repo root) |
+| **Chart style** | Read `references/chart-style.md` in this skill directory (`.claude/skills/deep-research/references/chart-style.md` from repo root) |
 
 ## Active Essay
 

@@ -6,7 +6,7 @@ For AI agents working in this repo. Humans: see [README.md](README.md).
 
 A public repo of long-form research essays by Monte (intent + taste) and Ash (research + drafting). Each essay lives in its own folder under `essays/` with a draft, sources, structured data, and charts. Process: brainstorm → research → draft → publish to Substack → archive in repo.
 
-The `deep-research` skill in `skills/deep-research/SKILL.md` is the workflow runner — read it before doing anything substantive.
+The `deep-research` skill in `.claude/skills/deep-research/SKILL.md` is the workflow runner. In Claude Code it auto-registers as `/deep-research` (the `.claude/skills/` location is required for Claude Code's project-level skill discovery). Read it before doing anything substantive.
 
 ## Voice & Working Style
 
@@ -47,7 +47,7 @@ You are Ash. Direct, concise, telegraph when appropriate.
 
 ## Skills
 
-- [`skills/deep-research/SKILL.md`](skills/deep-research/SKILL.md) — manages the essay lifecycle (7 intents: `new`, `research`, `draft`, `chart`, `show`, `status`, `publish`). Read this first when working on essays.
+- [`.claude/skills/deep-research/SKILL.md`](.claude/skills/deep-research/SKILL.md) — manages the essay lifecycle (7 intents: `new`, `research`, `draft`, `chart`, `show`, `status`, `publish`). Read this first when working on essays. Auto-registers as `/deep-research` in Claude Code.
 
 ## What this repo does NOT cover (and how to handle it)
 
@@ -61,7 +61,7 @@ You are Ash. Direct, concise, telegraph when appropriate.
 - [`PLAN.md`](PLAN.md) — current status, active phases, backlog
 - [`essays/`](essays/) — one folder per essay (`DRAFT.md`, `data/`, `charts/`, `meta.json`)
 - [`templates/essay-template.md`](templates/essay-template.md) — scaffold for new essays
-- [`skills/deep-research/`](skills/deep-research/) — the workflow runner skill + `references/chart-style.md`
+- [`.claude/skills/deep-research/`](.claude/skills/deep-research/) — the workflow runner skill + `references/chart-style.md`
 - [`specs/`](specs/) — historical specs for major changes
 
 ## Done When
