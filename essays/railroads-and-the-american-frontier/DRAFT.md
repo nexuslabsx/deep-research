@@ -21,6 +21,8 @@ The railroad wasn't primarily a transportation technology. It was an *optionalit
 - Speed of buildout: 9,000 miles (1850) → 30,000 (1860) → 163,000 (1890) → 254,000 peak (1916)
 - How long the underlying technology existed before the railroad explosion (decades of steam before practical rail)
 
+![US Railroad Mileage, 1830-1916](charts/us-railroad-mileage-1830-1916.png)
+
 ### 2. The Government's Bet
 - Pacific Railroad Acts (1862, 1864): land grants + government bonds per mile
 - Scale: ~33 million acres to Union Pacific + Central Pacific alone; total railroad land grants ~175 million acres
