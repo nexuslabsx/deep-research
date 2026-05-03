@@ -24,11 +24,13 @@ The railroad wasn't primarily a transportation technology. It was an *optionalit
 ![US Railroad Mileage, 1830-1916](charts/us-railroad-mileage-1830-1916.png)
 
 ### 2. The Government's Bet
-- Pacific Railroad Acts (1862, 1864): land grants + government bonds per mile
-- Scale: ~33 million acres to Union Pacific + Central Pacific alone; total railroad land grants ~175 million acres
-- Homestead Act (1862): 160 free acres to anyone who'd settle and farm; 1.6 million claims, 270 million acres
+- Pacific Railroad Acts (1862, 1864): land grants + government bonds per mile (1862: $16K/mile level, $32K foothills, $48K mountains; 1864 doubled all rates)
+- Scale: ~131 million acres in federal land grants to ~80 railroad companies, 1850-1871 (~7% of continental US); ~180M including state grants
+- Homestead Act (1862): 160 free acres to anyone who'd settle and farm; ~1.6 million claims, ~270 million acres distributed by 1934
 - The coordinated strategy: simultaneously creating supply (railroads) and demand (settlers)
-- Comparison to other government infrastructure bets in history — was this the largest?
+- Combined railroad + Homestead grants = ~401M acres redistributed in 70 years, roughly 21% of the continental US
+
+![Federal land movements in the 19th century](charts/federal-land-comparison-19th-century.png)
 
 ### 3. The Money
 - Railroad stocks as ~60% of NYSE by 1900
