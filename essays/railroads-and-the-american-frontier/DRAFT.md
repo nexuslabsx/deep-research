@@ -99,10 +99,12 @@ What Fogel's counterfactual systematically misses is everything in this essay's 
 ![Three estimates of what the railroad added](charts/fogel-social-savings.png)
 
 ### 7. How Big Was This, Really?
-- Comparing railroad impact to other transformative technologies: printing press, telegraph, electricity, internet
-- Railroad's share of GDP, employment, and capital formation at peak
-- The railroad as America's first "tech industry" — venture capital, stock speculation, boom-bust, eventual regulation
-- What the railroad era reveals about how infrastructure transforms society
+
+The railroad era was the first time the American economy organized itself around a single piece of infrastructure. By 1900, railroads dominated American capital markets, employed more workers than any non-agricultural sector, and were the heaviest concentration of corporate capital the country had ever seen. They had no real precedent. They have, in fact, only one decent comparison: the modern American technology industry. Both began as a transportation or communication advance. Both attracted speculative capital at scale. Both produced wealth concentration that triggered regulatory backlash. Both generated second-order effects in domains the original entrepreneurs never thought about.
+
+If you accept that the railroad's importance is best measured by what it set in motion rather than by what it cost to substitute for, then the answer to "how big was this, really?" is: bigger than any single GDP number captures. Modern timekeeping, the modern corporation, the first nationwide retail, the first federal regulator, the national park, and the entire concept of an industrial sector concentrated geographically — all of it traces back to the same underlying bet that began with thirteen miles of track between Baltimore and Ellicott Mills in 1830.
+
+This essay is the first of three. The next looks at the space industry as it stands in 2026 — a sector whose costs are collapsing, whose capital is flowing, whose second-order effects are not yet visible. The argument the railroad story makes is not that space will repeat the same script. It is that the script worth watching for is the optionality engine: build the infrastructure, then watch what gets built on top of it.
 
 ---
 
