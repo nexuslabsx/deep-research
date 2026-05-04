@@ -14,12 +14,12 @@
 |---|---|---|---|
 | 1 | Brainstorm | ✅ done | thesis ("optionality engine") + 7-section outline scaffolded |
 | 2 | Research | 🔬 ~85% | 18 of ~22 source clusters cited; 4 follow-ups open |
-| 3 | Charts | 📊 ~80% | 4 of 5 done (mileage, land grants, railroad capital, second-order timeline) |
-| 4 | Draft | ✍️ ~78% | lead + thesis + §§ 1-5 in prose (5 of 7 sections) |
+| 3 | Charts | 📊 ~100% | 5 of 5 done (mileage, land grants, capital, second-order timeline, Fogel) |
+| 4 | Draft | ✍️ ~92% | lead + thesis + §§ 1-6 in prose (6 of 7 sections) |
 | 5 | Polish | — | not started |
 | 6 | Publish | — | not started |
 
-**Current focus:** Building § 6 Fogel chart, then drafting § 6 prose (the hardest section).
+**Current focus:** Drafting § 7 (How Big, Really) — the closer.
 
 ---
 
@@ -60,7 +60,7 @@ Open follow-ups:
 - [x] `us-railroad-mileage-1830-1916.png` — § 1 buildout curve
 - [x] `federal-land-comparison-19th-century.png` — § 2 land grant comparison
 - [x] `railroad-capital-vs-federal-debt-1890.png` — § 3 finance (capitalization growth + scale vs federal debt)
-- [ ] `fogel-social-savings.png` — § 6 contrarian (Fogel 2.7% vs Donaldson-Hornbeck 3.22%, with 3-month-delay counterfactual)
+- [x] `fogel-social-savings.png` — § 6 contrarian (Fogel 2.7% vs Donaldson-Hornbeck 3.22%, with 3-month-delay counterfactual)
 - [x] `second-order-effects-timeline.png` — § 5 (time zones, Chicago stockyards, Sears, Standard Oil, refrigerated cars on a single timeline)
 - [ ] *(optional)* `chinese-labor-breakdown.png` — § 4 if data supports a clean visual
 
@@ -77,16 +77,16 @@ Sections (target words / current prose):
 - [x] § 3 The Money (~550 / ~560)
 - [x] § 4 Who Built It (~350 / ~360)
 - [x] § 5 Second-Order Effects (~600 / ~800)
-- [ ] § 6 The Contrarian View / Fogel (~400 / 0)
+- [x] § 6 The Contrarian View / Fogel (~400 / ~485)
 - [ ] § 7 How Big, Really (~250 / 0)
 
-**Current prose:** ~2,755 words (lead + thesis + §§ 1-5).
+**Current prose:** ~3,240 words (lead + thesis + §§ 1-6).
 
 Outline corrections still pending in DRAFT.md:
 
 - [x] Land grants: 175M → 131M federal / 180M total *(done in commit `86a9338`)*
 - [x] § 3 NYSE figure: "60% of NYSE by 1900" → ">50% of capitalization, >80% of trading volume from Civil War to ~1900" *(done in this commit cluster)*
-- [ ] § 6 Fogel: "social savings ~5% of GDP?" → "2.7% agriculture / 6-7% broader; Donaldson & Hornbeck 2013 re-estimate 3.22% via land-value channel"
+- [x] § 6 Fogel: "social savings ~5% of GDP?" → "2.7% agriculture / 6-7% broader; Donaldson & Hornbeck 2013 re-estimate 3.22% via land-value channel" *(done in § 6 prose)*
 
 ---
 

@@ -85,10 +85,18 @@ The pattern is the same in every domain. Build the infrastructure, and value acc
 ![What the railroad set in motion, 1861-1902](charts/second-order-effects-timeline.png)
 
 ### 6. The Contrarian View
-- Robert Fogel's argument: canals and roads could have achieved ~80% of the economic benefit (Nobel Prize-winning research)
-- The "social savings" debate — was the railroad irreplaceable, or would alternatives have emerged?
-- What Fogel gets right (incremental transport cost reduction) vs. what the argument misses (speed, network effects, imagination)
-- The railroad's irreplaceable contribution: not tonnage, but *speed* and *optionality*
+
+The story I have told so far makes the railroad sound indispensable. It's worth taking seriously the argument that it wasn't.
+
+In 1964, Robert Fogel published *Railroads and American Economic Growth: Essays in Econometric History*. His central question: how much of late-19th-century American economic output actually depended on the existence of railroads? His method was to construct a counterfactual — a hypothetical United States that had built canals and improved roads instead of rail, using the cheapest alternative available — and compare its output to the actual one. His headline finding was that the per-capita income level the United States actually reached on January 1, 1890 would have been reached by March 31, 1890 in the canal-and-wagon counterfactual. The railroad's contribution, in his accounting, was about a three-month delay in the trajectory of American economic growth. Fogel won the 1993 Nobel Prize in Economics, in part for this argument.
+
+The specific numbers were modest. Fogel estimated agricultural-sector "social savings" from the railroad at 2.7 percent of 1890 GNP, decomposed as 0.6 percent from interregional trade and 2.1 percent from intraregional trade. Broader estimates that included all sectors put the figure between six and seven percent. A 2013 NBER paper by Dave Donaldson and Richard Hornbeck reanalyzed the question using county-level land-value data and arrived at 3.22 percent of GDP — modestly higher than Fogel's agricultural figure but in the same order of magnitude. Modern econometrics has not overturned the basic finding.
+
+What Fogel was measuring was *static substitution*: the cost difference between the actual railroad system and the cheapest alternative way of moving the same goods. On that question he is broadly right. Canals, rivers, and improved roads could have moved most of America's freight at a roughly comparable cost. The railroad's moving-of-stuff advantage, in pure transport-economics terms, was real but bounded.
+
+What Fogel's counterfactual systematically misses is everything in this essay's fifth section. The canal-and-wagon America of his hypothetical does not get standardized time zones in 1883. It does not get the Union Stock Yards or the Sears catalog or the Standard Oil monopoly built on rebates. It does not invent the national park. The infrastructure substitutes; the optionality engine does not. Fogel was answering a narrower question than the one this essay is trying to answer, and his answer is right for his question. The right answer for the bigger question is a different number, and probably not one that econometrics can produce.
+
+![Three estimates of what the railroad added](charts/fogel-social-savings.png)
 
 ### 7. How Big Was This, Really?
 - Comparing railroad impact to other transformative technologies: printing press, telegraph, electricity, internet
