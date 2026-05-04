@@ -1,0 +1,4 @@
+estimate,low_pct,high_pct,scope,year,source
+"Fogel (1964)",2.7,2.7,"Agriculture sector only (1890 GNP); 0.6% interregional + 2.1% intraregional",1964,"Fogel, Railroads and American Economic Growth (1964)"
+"Donaldson & Hornbeck (2013)",3.22,3.22,"All sectors via county-level land-value reanalysis (1890 GDP)",2013,"NBER Working Paper 19213"
+"Broader Fogel-era estimates",6.0,7.0,"All sectors, inter + intraregional combined (1890 GNP)",1964,"Various; cited in EH.net summaries"
