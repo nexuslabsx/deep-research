@@ -4,7 +4,7 @@
 
 **Series:** Part 1 of "The Beginning of the Beginning" (3-part)
 **Word target:** ~3,250 of prose (~3,000 series target + lead/thesis)
-**Last commit:** `ff31fe6` — draft: Section 1 prose (Technical Unlock)
+**Last commit:** `89d47a7` — draft: Section 7 prose (How Big Was This, Really?)
 
 ---
 
