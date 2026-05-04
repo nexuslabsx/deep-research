@@ -19,7 +19,7 @@
 | 5 | Polish | — | not started |
 | 6 | Publish | — | not started |
 
-**Current focus:** Researching railroads + national parks (Yellowstone/Yosemite/Grand Canyon marketing) before drafting § 6 (Fogel).
+**Current focus:** Building § 6 Fogel chart, then drafting § 6 prose (the hardest section).
 
 ---
 
@@ -48,7 +48,7 @@ Verified and cited in `data/sources.md`:
 
 Open follow-ups:
 
-- [ ] Yellowstone / Yosemite / Grand Canyon — railroad-marketing primary sources (Northern Pacific, Santa Fe)
+- [x] Yellowstone / Yosemite / Grand Canyon — railroad-marketing primary sources *(researched May 4, 2026; sources added; Section 5 paragraph drafted)*
 - [ ] Robber baron wealth specifics (Vanderbilt, Stanford, Huntington, Harriman, Gould — peak fortunes vs GDP)
 - [ ] Sherman Antitrust Act (1890) + Interstate Commerce Act (1887) primary text references
 - [ ] Homestead Act primary source verification for 270M / 1.6M figures (have Wikipedia + National Archives, want one more)
@@ -76,11 +76,11 @@ Sections (target words / current prose):
 - [x] § 2 The Government's Bet (~500 / ~415)
 - [x] § 3 The Money (~550 / ~560)
 - [x] § 4 Who Built It (~350 / ~360)
-- [x] § 5 Second-Order Effects (~600 / ~625)
+- [x] § 5 Second-Order Effects (~600 / ~800)
 - [ ] § 6 The Contrarian View / Fogel (~400 / 0)
 - [ ] § 7 How Big, Really (~250 / 0)
 
-**Current prose:** ~2,580 words (lead + thesis + §§ 1-5).
+**Current prose:** ~2,755 words (lead + thesis + §§ 1-5).
 
 Outline corrections still pending in DRAFT.md:
 
