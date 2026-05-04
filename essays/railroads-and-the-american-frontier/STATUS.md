@@ -16,10 +16,10 @@
 | 2 | Research | 🔬 ~85% | 18 of ~22 source clusters cited; 4 follow-ups open |
 | 3 | Charts | 📊 ~100% | 5 of 5 done (mileage, land grants, capital, second-order timeline, Fogel) |
 | 4 | Draft | ✍️ ✅ done | lead + thesis + §§ 1-7 in prose (7 of 7 sections); ~3,500 words |
-| 5 | Polish | 📝 0% | not started — strip research notes, copy edit, verify citations |
+| 5 | Polish | 📝 ✅ done | FINAL.md created; em dashes removed; chronology + Rocket date fixes; Section Outline + Research Notes stripped |
 | 6 | Publish | — | not started |
 
-**Current focus:** First draft complete. Next: Phase 5 (Polish) — copy edit pass, citation verification, strip research notes.
+**Current focus:** FINAL.md polished. Ready for Phase 6 (Publish) — Substack draft + meta.json updates.
 
 ---
 
@@ -92,10 +92,10 @@ Outline corrections still pending in DRAFT.md:
 
 ## Phase 5 — Polish
 
-- [ ] Strip `## Research Notes` from FINAL.md
-- [ ] Copy edit pass for voice (direct, no em dashes, no AI tells)
-- [ ] Verify every numerical claim in prose ties to a `data/sources.md` entry
-- [ ] Confirm every chart is referenced in the draft and renders correctly
+- [x] Strip `## Research Notes` from FINAL.md
+- [x] Copy edit pass for voice (direct, no em dashes, no AI tells)
+- [x] Verify every numerical claim in prose ties to a `data/sources.md` entry
+- [x] Confirm every chart is referenced in the draft and renders correctly
 
 ---
 
