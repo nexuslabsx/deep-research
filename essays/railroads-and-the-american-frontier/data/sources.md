@@ -270,11 +270,61 @@
   - Union's logistical superiority a primary factor in victory
 - **Relevance:** Proves railroad's strategic role before the western buildout. Section 5.
 
+### Yellowstone & Northern Pacific (1872)
+- **URL:** https://www.gilderlehrman.org/history-resources/essays/yellowstone-national-parks-national-resources
+- **URL:** https://www.nps.gov/parkhistory/online_books/haines1/iee2c.htm
+- **Accessed:** 2026-05-04
+- **Key data:**
+  - Yellowstone designated the world's first national park, March 1, 1872
+  - Lobbying campaign run out of Jay Cooke's office (financier of Northern Pacific Railroad), beginning late 1871
+  - Cooke wrote to geologist Ferdinand Hayden suggesting Congress reserve the Great Geyser Basin
+  - Northern Pacific brought Hayden, painter Thomas Moran, and photographer William Henry Jackson to Washington with sketches/photographs that swayed Congress more than verbal arguments
+  - Northern Pacific owned land just north of the proposed park boundaries
+  - Bill introduced January 1872, passed March 1, 1872
+- **Relevance:** Strongest single example of railroads creating a new institutional category (the national park) for their own commercial benefit. Section 5.
+
+### Santa Fe Railway & Grand Canyon (1901-1905)
+- **URL:** https://en.wikipedia.org/wiki/Grand_Canyon_Railway
+- **URL:** https://grcahistory.org/sites/south-rim/el-tovar/
+- **URL:** https://www.historichotels.org/us/hotels-resorts/el-tovar-hotel/history.php
+- **Accessed:** 2026-05-04
+- **Key data:**
+  - Atchison, Topeka and Santa Fe Railway built spur from Williams, AZ to South Rim; opened September 18, 1901
+  - El Tovar Hotel commissioned 1902, opened 1905, four stories, just feet from the South Rim
+  - Santa Fe hired Thomas Moran (same painter as Yellowstone) to paint the canyon for advertising
+  - Early guests: Theodore Roosevelt, William Howard Taft, George Bernard Shaw, Zane Grey, Guglielmo Marconi
+  - Grand Canyon was Forest Reserve (1893), National Monument (1908), National Park (1919) — Santa Fe drove tourism before any park status existed
+- **Relevance:** Pattern repeats Yellowstone: railroad spur + grand hotel + painter-as-marketing. Section 5.
+
+### Great Northern Railway, Glacier, "See America First" (1910-1913)
+- **URL:** https://www.glacierparkcollection.com/glacier-national-park/stories/tied-to-the-tracks-discover-glacier-s-historic-railway-lodges/
+- **URL:** https://www.intermountainhistories.org/files/show/3717
+- **Accessed:** 2026-05-04
+- **Key data:**
+  - Glacier National Park established May 1910
+  - Great Northern Railway (under Louis W. Hill, son of James J. Hill) lobbied for the park's creation
+  - Belton Chalet opened summer 1910, just months after park established
+  - Glacier Park Lodge opened June 1913
+  - "See America First" slogan originated 1905-1909 with Stanford Harris (Salt Lake City); Louis Hill adopted it after Harris's death
+  - Slogan: "See Europe if you must, but See America First"
+  - Campaign explicitly targeted affluent Americans who otherwise vacationed in the Swiss Alps
+- **Relevance:** Pattern repeats again, even more deliberately: railroad lobbies park into existence, builds lodges within months, runs nationalist marketing campaign to redirect affluent leisure spending domestically. Section 5.
+
+### Yosemite & Southern Pacific (1881-1906)
+- **URL:** https://en.wikipedia.org/wiki/Yosemite_Stage_and_Turnpike_Company
+- **URL:** https://www.yosemite.com/ahwahnee-history/amp/
+- **Accessed:** 2026-05-04
+- **Key data:**
+  - Southern Pacific opened Madera-Mariposa Route 1881 (90-mile stagecoach line connecting Yosemite Valley to the Southern Pacific railhead in Madera)
+  - Between 1886 and 1906, Raymond was the railhead; passengers transferred to horse-drawn stagecoach for ~10-hour trip into the park
+  - Ahwahnee Hotel opened July 16, 1927 — much later, NPS-driven (Stephen Mather), not railroad-driven
+- **Relevance:** Weaker railroad story than Yellowstone/Grand Canyon/Glacier — Yosemite tourism was rail-then-stagecoach, and the iconic hotel came from the NPS not the railroad. Worth mentioning briefly but doesn't carry the section.
+
 ---
 
 ## Open Questions / To Verify
 
-- Yellowstone, Yosemite, Grand Canyon — railroad marketing role (Northern Pacific funded Yellowstone advocacy; Santa Fe heavy on Grand Canyon). Need specific sources.
+- ~~Yellowstone, Yosemite, Grand Canyon — railroad marketing role~~ *(researched May 4, 2026; sources added above)*
 - "Robber baron" wealth specifics — Vanderbilt at peak, Stanford, Huntington, Harriman, Gould. Comparison to GDP needed.
 - Sherman Antitrust Act (1890) and Interstate Commerce Act (1887) as direct railroad responses — need primary text references.
 - Homestead Act (1862): 160 acres, 1.6M claims, 270M acres. Numbers in outline still need verification source.
