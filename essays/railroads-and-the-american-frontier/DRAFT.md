@@ -65,14 +65,22 @@ The pay was structurally unequal. Chinese workers earned $30 to $35 a month, les
 It is worth keeping these two sections next to each other. The same Leland Stanford whose stock made him one of the wealthiest men in America also chose, while construction was happening, to starve his striking Chinese workers back to work. Crédit Mobilier's $44 million skim was happening on the Union Pacific's side of the line at roughly the same time. The fortunes that this essay's third section catalogued were not built on the moving of freight. They were built, in significant part, on the labor that this section is about.
 
 ### 5. Second-Order Effects Nobody Predicted
-- **Time zones (1883):** Railroads standardized time before the federal government did — previously every city kept its own local time
-- **Chicago:** Railroad hub → Union Stock Yards (1865) → meatpacking capital → commodities exchange → financial center
-- **Mail-order retail:** Sears, Roebuck & Co. and Montgomery Ward — the first nationwide retail, enabled entirely by rail + postal service
-- **Telegraph:** Followed railroad right-of-way; communication infrastructure piggybacked on transportation infrastructure
-- **Oil distribution:** Rockefeller's Standard Oil empire was built on railroad shipping agreements (and later, pipelines)
-- **Agriculture at scale:** Refrigerated cars (1870s) turned the Great Plains into the world's breadbasket
-- **Tourism and national parks:** Railroads marketed Yellowstone, Grand Canyon, Yosemite — created the American tourism industry
-- **Military logistics:** Proved decisive in Civil War (1861-1865), reshaping military strategy permanently
+
+None of what comes next was in any railroad company's business plan.
+
+Start with time. Until 1883, every American town kept its own clock, set to local solar noon. There were about 144 distinct local times across North America. Railroads couldn't run schedules under that condition, so on November 18, 1883 — a date the press called the Day of Two Noons — American railroads simultaneously adopted five standard time zones based on the 75th, 90th, 105th, and 120th meridians. Cities reset their clocks to match the railroads. The federal government did not codify standard time until 1918, thirty-five years later. Modern timekeeping is a railroad invention.
+
+Geography reorganized just as fast. The Union Stock Yards opened in Chicago on Christmas Day, 1865, founded by a consortium of nine railroads that bought up a piece of Lake Michigan marshland. By 1870 it was processing two million animals a year. By 1890, nine million. By 1900, the stockyards employed 25,000 people and produced 82 percent of the meat consumed in the United States. Gustavus Swift, working with engineer Andrew Chase, perfected the refrigerated rail car in 1878. That single piece of equipment broke the geographic constraint that meat had to be slaughtered near where it was eaten. After 1880, beef could be killed in Chicago and sold on a Boston dinner table, which is roughly when American food stopped being a regional thing.
+
+Communications followed the same pattern. Telegraph lines in the United States were almost entirely built along railroad rights-of-way, by mutual agreement: railroads provided depot space and free transport for repair crews, telegraph companies provided free dispatch service to the railroads. Western Union, the company that made this trade most aggressively, controlled 90 percent of US telegraph traffic by 1866, the year after the Civil War ended. The transcontinental telegraph had actually beaten the transcontinental railroad to completion by eight years, in October 1861, but it was built along the same survey lines and needed the same labor.
+
+Retail took a little longer. Aaron Montgomery Ward founded the first general-merchandise mail-order catalog in 1872, working from a railroad station in Chicago. Richard Sears was selling watches by mail in 1886; the full Sears, Roebuck partnership formed in 1893. What completed the loop was Rural Free Delivery, rolled out nationally in 1902. After RFD a Sears catalog could reach a farm in Nebraska that previously had no general store within fifty miles. The railroad-and-post-office stack made nationwide retail possible thirty years before the automobile or the highway.
+
+Energy is the most cynical example. John D. Rockefeller's Standard Oil did not become a monopoly because it refined oil better than anyone else. It became a monopoly because in 1868 it secured a 71 percent rebate from the Lake Shore Railroad in exchange for guaranteeing 60 carloads of oil per day, and then used that cost advantage to drive smaller refiners out of business. By 1882, Standard Oil was refining about 90 percent of US oil. The railroad rebate was the actual mechanism of monopoly. The South Improvement Company cartel of 1871 made the structure explicit; public outrage killed it before any oil shipped, but the bilateral deals continued.
+
+The pattern is the same in every domain. Build the infrastructure, and value accumulates in places nobody expected. The railroad was a transportation technology that turned out to be a substrate for time, geography, communication, retail, and energy at the same time. This is what an optionality engine looks like in retrospect.
+
+![What the railroad set in motion, 1861-1902](charts/second-order-effects-timeline.png)
 
 ### 6. The Contrarian View
 - Robert Fogel's argument: canals and roads could have achieved ~80% of the economic benefit (Nobel Prize-winning research)
