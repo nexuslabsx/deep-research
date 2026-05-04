@@ -15,11 +15,11 @@
 | 1 | Brainstorm | ✅ done | thesis ("optionality engine") + 7-section outline scaffolded |
 | 2 | Research | 🔬 ~85% | 18 of ~22 source clusters cited; 4 follow-ups open |
 | 3 | Charts | 📊 ~100% | 5 of 5 done (mileage, land grants, capital, second-order timeline, Fogel) |
-| 4 | Draft | ✍️ ~92% | lead + thesis + §§ 1-6 in prose (6 of 7 sections) |
-| 5 | Polish | — | not started |
+| 4 | Draft | ✍️ ✅ done | lead + thesis + §§ 1-7 in prose (7 of 7 sections); ~3,500 words |
+| 5 | Polish | 📝 0% | not started — strip research notes, copy edit, verify citations |
 | 6 | Publish | — | not started |
 
-**Current focus:** Drafting § 7 (How Big, Really) — the closer.
+**Current focus:** First draft complete. Next: Phase 5 (Polish) — copy edit pass, citation verification, strip research notes.
 
 ---
 
@@ -78,9 +78,9 @@ Sections (target words / current prose):
 - [x] § 4 Who Built It (~350 / ~360)
 - [x] § 5 Second-Order Effects (~600 / ~800)
 - [x] § 6 The Contrarian View / Fogel (~400 / ~485)
-- [ ] § 7 How Big, Really (~250 / 0)
+- [x] § 7 How Big, Really (~250 / ~265)
 
-**Current prose:** ~3,240 words (lead + thesis + §§ 1-6).
+**Current prose:** ~3,505 words (lead + thesis + §§ 1-7). First draft complete.
 
 Outline corrections still pending in DRAFT.md:
 
